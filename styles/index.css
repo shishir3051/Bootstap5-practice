@@ -42,6 +42,33 @@ div > p {
     text-decoration: underline;
 }
 
+
+
+#feedback{
+    background:#0d0442 ;
+    padding: 7% 10% ;
+}
+
+.hr-style{
+    border: 5px dotted white;
+    border-bottom: none;
+    width: 60px;
+    
+}
+.carousel-item{
+    padding: 5% 15%;
+    font-style: italic;
+    text-align: center;
+}
+.carousel-item img{
+    width: 500px;
+    height: auto;
+}
+
+.carousel-indicators{
+    bottom: -20px;
+}
+
 .media-box {
     display: flex;
     flex-direction: row;
@@ -58,3 +85,5 @@ div > p {
         margin: auto;
     }
 }
+
+
